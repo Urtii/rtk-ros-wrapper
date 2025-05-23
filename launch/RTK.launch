@@ -4,7 +4,7 @@
       type="RTK_ROS.py" 
       name="RTK_ROS" 
       output="screen" 
-      args="--serial-port /dev/ttyUSB0 --baud-rate 115200"
+      args="--serial-port /dev/ttyUSB2 --baud-rate 115200"
       >
     </node>
     <node 
